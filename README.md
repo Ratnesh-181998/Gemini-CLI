@@ -466,6 +466,7 @@ Build Tutorial 1: https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent
 
 Build Tutorial 2: https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment
 
+<img width="924" height="1094" alt="image" src="https://github.com/user-attachments/assets/fb13f3c1-3622-4eb2-bc16-c8f5389e9d0e" />
 
 ---
 
