@@ -392,3 +392,80 @@ See the [Uninstall Guide](https://www.geminicli.com/docs/resources/uninstall)
 for removal instructions.
 
 
+---
+
+# Google released Free AI Agents Courses : 
+
+Day 1 - Introduction to AI Agents
+
+Learn how AI agents:
+→ Plan
+→ Reason
+→ Take actions autonomously
+
+🔗 https://www.kaggle.com/whitepaper-introduction-to-agents
+
+Build Tutorial 1: https://www.kaggle.com/code/kaggle5daysofai/day-1a-from-prompt-to-action
+
+Build Tutorial 2: https://www.kaggle.com/code/kaggle5daysofai/day-1b-agent-architectures
+
+
+Day 2 - Tools & MCP
+
+Connect agents with:
+→ APIs
+→ Software tools
+→ External systems using MCP
+
+🔗 https://www.kaggle.com/whitepaper-agent-tools-and-interoperability-with-mcp
+
+Build Tutorial 1: https://www.kaggle.com/code/kaggle5daysofai/day-2a-agent-tools
+
+Build Tutorial 2:  https://www.kaggle.com/code/kaggle5daysofai/day-2b-agent-tools-best-practices
+
+
+Day 3 - Context Engineering & Memory
+
+Teach agents to:
+→ Remember conversations
+→ Maintain long-term context
+→ Learn across interactions
+
+🔗 https://www.kaggle.com/whitepaper-context-engineering-sessions-and-memory
+
+Build Tutorial 1: https://www.kaggle.com/code/kaggle5daysofai/day-3a-agent-sessions
+Build Tutorial 2: https://www.kaggle.com/code/kaggle5daysofai/day-3b-agent-memory
+
+
+Day 4 - Evaluation & Observability
+
+Learn how to:
+→ Debug agents
+→ Trace failures
+→ Evaluate outputs
+→ Improve reliability
+
+🔗 https://www.kaggle.com/whitepaper-agent-quality
+
+Build Tutorial 1: https://www.kaggle.com/code/kaggle5daysofai/day-4a-agent-observability
+
+Build Tutorial 2: https://www.kaggle.com/code/kaggle5daysofai/day-4b-agent-evaluation
+
+
+Day 5 - Production-Ready Deployment
+
+Move from demos to production systems:
+→ Vertex AI deployment
+→ Multi-agent workflows
+→ Safety systems
+→ Scaling infrastructure
+
+🔗 https://www.kaggle.com/whitepaper-prototype-to-production
+
+Build Tutorial 1: https://www.kaggle.com/code/kaggle5daysofai/day-5a-agent2agent-communication
+
+Build Tutorial 2: https://www.kaggle.com/code/kaggle5daysofai/day-5b-agent-deployment
+
+
+---
+
